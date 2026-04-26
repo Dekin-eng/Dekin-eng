@@ -1,16 +1,33 @@
-## Hi there 👋
+# Yazid Mohamed Moussa
 
-<!--
-**Dekin-eng/Dekin-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+{ SOC Analyst apprentice }
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+**Network Security Monitoring**  
+Analyzing network traffic, packet inspection, identifying malicious activity
+
+**SIEM Operations**  
+Log aggregation, alert triage, basic search queries in Splunk
+
+**Digital Forensics**  
+Memory forensics using Volatility, evidence collection and preservation
+
+**Threat Intelligence**  
+OSINT investigations, IOC extraction, MITRE ATT&CK framework
+
+**Vulnerability Management**  
+Scanning configuration, risk prioritization using CVSS scores
+
+**Incident Response**  
+Alert triage, containment procedures, incident documentation
+
+---
+
+## Contact
+
+📫 doniyazid@outlook.com  
+🔗 https://www.linkedin.com/in/yazid-mohamed-3592b0344/
