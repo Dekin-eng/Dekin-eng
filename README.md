@@ -1,4 +1,6 @@
-# Yazid Mohamed Moussa
+<img width="860" height="484" alt="working mario" src="https://github.com/user-attachments/assets/2dedb751-73fb-4512-b4f0-7fb5077895b7" />
+
+Hi Im YAZID
 
 ## About Me
 
