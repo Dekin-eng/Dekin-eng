@@ -31,5 +31,5 @@ Alert triage, containment procedures, incident documentation
 
 ## Contact
 
-📫 doniyazid@outlook.com  
+📫 donyazid@outlook.com  
 🔗 https://www.linkedin.com/in/yazid-mohamed-3592b0344/
