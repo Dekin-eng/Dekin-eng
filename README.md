@@ -4,7 +4,7 @@ Hi Im YAZID
 
 ## About Me
 
-{ SOC Analyst apprentice }
+{ SOC Analyst }
 ---
 
 ## Skills
