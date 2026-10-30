@@ -1,6 +1,6 @@
 <img width="860" height="484" alt="working mario" src="https://github.com/user-attachments/assets/2dedb751-73fb-4512-b4f0-7fb5077895b7" />
 
-Hi Im YAZID
+Hi Im YAZO
 
 ## About Me
 
@@ -28,8 +28,3 @@ Scanning configuration, risk prioritization using CVSS scores
 Alert triage, containment procedures, incident documentation
 
 ---
-
-## Contact
-
-📫 donyazid@outlook.com  
-🔗 https://www.linkedin.com/in/yazid-mohamed-3592b0344/
